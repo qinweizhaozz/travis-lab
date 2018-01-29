@@ -1,3 +1,4 @@
+
 import io
 def test_one():
         data = io.open('task2/input.txt')
